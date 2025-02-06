@@ -1,0 +1,12 @@
+:root {
+    --color-1: rgb(0, 0, 0) ;
+    --color-2: rgb(0, 0, 0) ;
+}
+
+html {
+    margin: 0;
+}
+
+body {
+    margin: 0;
+}

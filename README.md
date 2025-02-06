@@ -1,1 +1,2 @@
-# mini_portfolio
+# Ethan CHEVRAND
+-# alias @ZeSpatule
